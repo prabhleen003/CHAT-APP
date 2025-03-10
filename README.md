@@ -9,8 +9,7 @@
 ## 🛠 Tech Stack  
 🔹 **Frontend:** React.js / HTML / CSS  
 🔹 **Backend:** Node.js / Express.js  
-🔹 **Database:** MongoDB / Firebase  
-🔹 **Authentication:** Firebase Auth / JWT  
+🔹 **Database:** MongoDB  
 🔹 **Real-time:** Socket.io (WebSockets)  
 
 ## 🚀 Future Enhancements and Working On  
