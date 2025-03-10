@@ -4,9 +4,6 @@
 ## 🌟 Features  
 ✅ **Real-time Messaging** – Instant text communication  
 ✅ **User Authentication** – Secure login & signup  
-✅ **Group Chats** – Chat with multiple users  
-✅ **Media Sharing** – Share images, videos, and more  
-✅ **Typing Indicators** – Know when someone is typing  
 ✅ **Responsive UI** – Works smoothly on all devices  
 
 ## 🛠 Tech Stack  
